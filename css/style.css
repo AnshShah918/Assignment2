@@ -13,9 +13,6 @@ a{
 	text-decoration: none;
 	color: black;
 }
-a:hover{
-	color: white;
-}
 button{
 	margin-left: auto;
 	margin-right: auto;
@@ -34,6 +31,7 @@ body{
 	margin: auto;
 }
 .nav{
+	text-align: center;
 	background-color: black;
     position: fixed; /* Set the navbar to fixed position */
     top: 0; /* Position the navbar at the top of the page */
@@ -60,7 +58,7 @@ nav ul li a{
 	font-weight: 600;
 }
 nav ul li a:hover{
-	color: #4b4d4f;
+	font-size: 20px;
 
 }
 .main{
@@ -85,7 +83,7 @@ footer a{
 	
 }
 footer a:hover{
-	color: black;
+	color: white;
 }
 footer p{
 	font-family: 'Anaheim';
