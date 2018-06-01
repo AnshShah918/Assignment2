@@ -1,4 +1,6 @@
 header h1{
+	text-transform: uppercase;
+	text-shadow: 1px 1px 10px;
 	font-family: 'Great Vibes';
 	padding-top: 50px;
 	width: 267px;
